@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
+featuredImage: 'https://ucarecdn.com/c43ea9bd-629b-4ae3-8a99-6d4b504c84fa/'
 subtitle: This is the contact page subtitle.
 address: |
   516 Rock St. #206
