@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Components Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://ucarecdn.com/02c685b3-1643-481f-be7b-9ff4c3eb39e2/'
 subtitle: This is the components page subtitle.
 section1: >-
   ## This is a container component
@@ -21,12 +21,11 @@ section2: |-
   ## You can use videos, images and text.
 
   <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
+  src="https://youtu.be/eZfBnA0VSVk" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
-videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
-videoTitle: Also background videos, with poster image & title overlay.
+video: 'https://ucarecdn.com/0cbc75bd-e664-4b4b-a3b3-69004089f29e/'
+videoPoster: 'https://ucarecdn.com/ab56b2fe-4b95-46b6-b5a6-716f33ff6d9b/'
+videoTitle: 'Also background videos, with poster image & title overlay.'
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -37,16 +36,17 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - alt: window screen print
+    image: 'https://ucarecdn.com/55a87415-4aa5-4868-bbf2-54155fe4099c/'
+    title: Window Screenprint
+  - alt: fraction pack
+    image: 'https://ucarecdn.com/bb28cc1b-2878-4451-9336-6e43fbf4cfc2/'
+    title: Mission Workshop Fraction Backpack
+  - alt: '#8 zippers 1680D ballistic nylon '
+    image: 'https://ucarecdn.com/1105cac9-1bf7-477b-9921-34c38304e877/'
+    title: Specs
 meta:
   description: This is a meta description.
   title: Components Page
 ---
+
