@@ -1,8 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: 'digiBonsai: ely.io'
-featuredImage: 'https://ucarecdn.com/f82cba71-954c-4140-8c4d-5549be921683/'
+title: 'digibonsai: digital garden of ely.io'
+featuredImage: >-
+  https://ucarecdn.com/30319b47-4f37-4491-89b8-b34b7290cbb8/-/crop/1797x1732/310,0/-/preview/-/rotate/90/-/enhance/29/-/grayscale/
 subtitle: >-
   welcome to [digibonsai](https://digibonsai.netlify.app), a petite digital
   garden.
